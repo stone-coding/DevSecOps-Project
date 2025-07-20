@@ -21,5 +21,3 @@ To avoid AWS charges, ensure you terminate:
 - EKS Control Plane (delete cluster)
 - Related S3 buckets, IAM roles, CloudWatch logs, etc.
 
-## License
-For educational purposes only.
