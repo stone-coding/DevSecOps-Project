@@ -1078,7 +1078,7 @@ This runs the container on a **free port** (8082) instead.
 ---
 
 
-## 6. how jenkins add credentials?
+## 5. how jenkins add credentials?
 In Jenkins, you can add credentials by following these steps:
 
 ### **Steps to Add Credentials in Jenkins:**
@@ -1127,7 +1127,7 @@ In Jenkins, you can add credentials by following these steps:
    * Click **OK** to save.
 
 
-## 7. EKS Cluster IAM Role (AWS Console method)
+## 6. EKS Cluster IAM Role (AWS Console method)
 
 ### **Steps to create EKS Cluster IAM Role (AWS Console method)**
 
