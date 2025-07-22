@@ -880,7 +880,6 @@ Failure to clean up resources could lead to unnecessary AWS charges. Double-chec
 ---
 **Phase 9: Common errors**
 ## 1. Docker Hub username is stone037, but your pipeline is trying to push to stone037/netflix which is not your repository.
-✅ **You are 100% correct.**
 The error is caused because your **Docker Hub username is `xxxxx`**, but your pipeline is trying to push to **`stone037/netflix`** which is not your repository.
 
 ---
